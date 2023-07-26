@@ -10,8 +10,11 @@ allprojects {
 
  Step 2. Add the dependency
 
-dependencies {
+dependencies
+{
+
 	        implementation 'com.github.khemraj0100:ServicePlayMusicBackGround:-SNAPSHOT'
-	}
+
+ }
 
  
